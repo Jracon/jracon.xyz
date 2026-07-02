@@ -1,0 +1,8 @@
+baseURL = 'https://jracon.xyz/'
+locale = 'en-us'
+title = 'jracon.xyz'
+theme = 'risotto'
+
+[Params]
+    [Params.Theme]
+        palette = 'tokyo-night-dark'
