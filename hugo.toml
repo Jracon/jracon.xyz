@@ -2,7 +2,17 @@ baseURL = 'https://jracon.xyz/'
 locale = 'en-us'
 title = 'jracon.xyz'
 theme = 'risotto'
+sectionPagesMenu = 'main'
 
 [Params]
     [Params.Theme]
         palette = 'tokyo-night-dark'
+
+[[Params.socialLinks]]
+    icon = "fa-brands fa-instagram"
+    title = "Instagram"
+    url = "https://instagram.com/YOUR_USERNAME"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
