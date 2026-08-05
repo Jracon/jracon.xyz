@@ -1,18 +1,32 @@
-baseURL = 'https://jracon.xyz/'
-locale = 'en-us'
-title = 'jracon.xyz'
-theme = 'risotto'
-sectionPagesMenu = 'main'
+baseURL = "https://jracon.xyz/"
+locale = "en-us"
+sectionPagesMenu = "main"
+theme = "risotto"
+title = "jracon.xyz"
 
-[Params]
-    [Params.Theme]
-        palette = 'tokyo-night-dark'
+[caches.images]
+dir = ":cacheDir/images"
 
-[[Params.socialLinks]]
-    icon = "fa-brands fa-instagram"
-    title = "Instagram"
-    url = "https://instagram.com/YOUR_USERNAME"
+[markup.goldmark.renderer]
+unsafe = true
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[params.about]
+description = "my personal internet vertex"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Discord"
+url = "https://discord.gg/F8TxYESc"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:9o7qkklz@anonaddy.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/jracon.xyz"
+
+[params.theme]
+palette = "me"
