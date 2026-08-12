@@ -40,4 +40,4 @@ Working within the [FEWSION Project](https://fewsion.us) aiding in the developme
 
 ### Homelab
 
-I maintain a Nix flake for declarative, reproducible, self-hosted homelab infrastructure as code; utilizing disk partitioning with disko, services as Podman containers, agenix secrets management, and user environment configuration through Home Manager.
+I maintain a Nix flake for declarative, reproducible infrastructure as code for a self-hosted homelab: including disk partitioning with disko, services as Podman containers, agenix secrets management, Home Manager user environments, and CI-driven dependency updates with automated validation.

@@ -4,7 +4,7 @@ title = 'Projects'
 
 ## [genixis](https://github.com/Jracon/genixis)
 
-My Nix Flake for declarative, reproducible, self-hosted homelab service infrastructure; utilizes declarative disk partitions with disko, secure rootless Podman containers, agenix secrets management, user environment configuration with Home Manager, and personal system configuration with nix-darwin and system-manager.
+My [Nix](https://nixos.org/) Flake for declarative, reproducible, homelab infrastructure as code: utilizing [disko](https://github.com/nix-community/disko) disk partitioning, [Podman](https://podman.io/) containers for self-hosted services, [agenix](https://github.com/ryantm/agenix) secrets management, and [Home Manager](https://github.com/nix-community/home-manager) user environment configuration.
 
 ## [jracon.xyz](https://github.com/Jracon/jracon.xyz) <- You are Here!
 
