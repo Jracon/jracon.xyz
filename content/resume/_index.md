@@ -3,7 +3,7 @@ description = 'please hire me'
 title = 'Resume'
 +++
 
-[GitHub](https://github.com/Jracon) | [LinkedIn](https://www.linkedin.com/in/jade-meskill/) | [ORCID](https://orcid.org/0009-0003-2510-4834)
+[GitHub](https://github.com/Jracon) | [LinkedIn](https://www.linkedin.com/in/jade-meskill) | [ORCID](https://orcid.org/0009-0003-2510-4834)
 
 ## Profile
 
@@ -40,4 +40,4 @@ Working within the [FEWSION Project](https://fewsion.us) aiding in the developme
 
 ### Homelab
 
-I maintain a Nix Flake for declarative, reproducible, self-hosted homelab service infrastructure; utilizing declarative disk partitions with disko, secure rootless Podman containers, agenix secrets management, and user environment configuration through Home Manager.
+I maintain a Nix flake for declarative, reproducible, self-hosted homelab infrastructure as code; utilizing disk partitioning with disko, services as Podman containers, agenix secrets management, and user environment configuration through Home Manager.
