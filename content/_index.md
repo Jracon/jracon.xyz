@@ -1,6 +1,6 @@
 Welcome to my website, feel free to take a look around! Or don't.
 
-I am Jade, a computer scientist with too many interests and too little time.
+I am Jade, a Research Software Engineer with the U.S.G.S through Northern Arizona University.
 
 ## Media Diaries
 
