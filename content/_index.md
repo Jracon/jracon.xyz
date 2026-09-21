@@ -1,6 +1,6 @@
 Welcome to my website, feel free to take a look around! Or don't.
 
-I am Jade, a Research Software Engineer with the U.S.G.S through Northern Arizona University.
+My name is Jade, I'm a Research Software Engineer with the U.S. Geological Survey through Northern Arizona University.
 
 ## Media Diaries
 
