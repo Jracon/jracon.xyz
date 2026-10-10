@@ -4,7 +4,7 @@ My name is Jade, I'm a Research Software Engineer with the U.S. Geological Surve
 
 ## Media Diaries
 
-- [books](https://www.goodreads.com/jracon) I read
+- [books](https://hardcover.app/@jracon) I read
 - [games](https://backloggd.com/u/jracon) I play
 - [movies](https://letterboxd.com/jracon) I see
 - [music](https://www.last.fm/user/jracon) I listen to

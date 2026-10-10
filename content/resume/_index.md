@@ -29,7 +29,7 @@ Working within the [FEWSION Project](https://fewsion.us), aiding in the developm
 
 ## Education
 
-**Bachelor of Science in Applied Computer Science** @ Northern Arizona University (Flagstaff, Arizona)
+**Bachelor of Science** in **Applied Computer Science** @ Northern Arizona University (Flagstaff, Arizona)
 
 ## Skills & Technical Acumen
 
