@@ -25,3 +25,8 @@ url = "https://www.instagram.com/jracon.xyz"
 
 [params.theme]
 palette = "me"
+
+[[menus.main]]
+name = "portfolio"
+url = "https://portfolio.jracon.xyz"
+weight = 10
