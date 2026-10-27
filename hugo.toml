@@ -1,14 +1,7 @@
 baseURL = "https://jracon.xyz/"
 locale = "en-us"
-sectionPagesMenu = "main"
 theme = "risotto"
 title = "jracon.xyz"
-
-[caches.images]
-dir = ":cacheDir/images"
-
-[markup.goldmark.renderer]
-unsafe = true
 
 [params.about]
 description = "my personal internet vertex"
